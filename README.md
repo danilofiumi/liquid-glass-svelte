@@ -81,8 +81,9 @@ Control how the Liquid Glass component blends with the background environment. U
 
 🙏 Inspiration
 Inspired by Apple's new iOS 26 Liquid Glass design.
+
 CSS inspired by https://codepen.io/odibixie/pen/vEYEWQR
 
 ⚠️ Browser Support
 Tested on: Chrome on macOS
-May not fully work in: Safari (backdrop-filter and SVG filter support is limited)
+May not fully work in Safari (backdrop-filter and SVG filter support is limited)
