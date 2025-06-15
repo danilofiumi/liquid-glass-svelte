@@ -18,7 +18,7 @@ Bring Apple's **Liquid Glass UI** (iOS 26) to the web
 Glassmorphism fakes depth with blur and opacity.  
 **Liquid Glassifier** gives you **real responsive fluidity**, motion, and depth.
 
-![meme-Blur](meme-blur.jpg)
+<!-- ![meme-Blur](meme-blur.jpg) -->
 ---
 
 ### ✅ Features
