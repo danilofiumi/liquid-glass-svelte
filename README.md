@@ -1,22 +1,24 @@
-# 🧊 Liquid Glassifier
+# 🧊 Svelte Liquid Glassifier
 
 
 Bring Apple's **Liquid Glass UI** (iOS 26) to the web
 
 🔗 [Live Playground](https://glass.danilofiumi.com/)
+
 🎥 [Demo](https://www.youtube.com/watch?v=9QnE37E6jU0)
+
 
 > Built with **Svelte** and exportable as a **Web Component**, so it works anywhere: React, Vue, Angular, plain HTML — no build tool required.
 
 ---
 
 ### ✨ What Makes It Different?
-
-Glassmorphism ≠ Liquid Glass.  
+![Compare Glassmorphism](CompareliquidGlass.gif)
+**Glassmorphism ≠ Liquid Glass.**
 Glassmorphism fakes depth with blur and opacity.  
 **Liquid Glassifier** gives you **real responsive fluidity**, motion, and depth.
 
-![alt text](meme-blur.jpg)
+![meme-Blur](meme-blur.jpg)
 ---
 
 ### ✅ Features
@@ -27,11 +29,14 @@ Glassmorphism fakes depth with blur and opacity.
 - 🎨 Light & dark mode support
 - 🧠 Handles complex layering without breaking
 
+
 ---
 
 ### ⚡ Use Anywhere with 1 Script
 
 No build tools. No dependencies. Just copy & paste:
+![Page Preview](https://glass.danilofiumi.it/assets/shared/metaImage.png)
+> Liquid Glassifier - Demo preview
 
 #### 1. Load the Web Component:
 Paste this in your `<head>`:
