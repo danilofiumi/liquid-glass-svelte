@@ -1,6 +1,4 @@
 <script>
-	import { store } from '$lib/UserStore.svelte';
-	import { size } from '$lib/utils/responsive';
 	import { onMount } from 'svelte';
 	import { fade } from 'svelte/transition';
 
@@ -41,9 +39,7 @@
 
 	function changeText(e) {
 		if (styles.text.edit) {
-			// console.log(e.target.innerText);
-
-			$store['updateContent'] = e.target.innerText;
+			console.log(e.target.innerText);
 		}
 	}
 	let textColor = $state('text-white');
