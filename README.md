@@ -4,7 +4,6 @@
 Bring Apple's **Liquid Glass UI** (iOS 26) to the web
 
 🔗 [Live Playground](https://glass.danilofiumi.com/)
-
 🎥 [Demo](https://www.youtube.com/watch?v=9QnE37E6jU0)
 
 
@@ -14,6 +13,7 @@ Bring Apple's **Liquid Glass UI** (iOS 26) to the web
 
 ### ✨ What Makes It Different?
 ![Compare Glassmorphism](CompareliquidGlass.gif)
+
 **Glassmorphism ≠ Liquid Glass.**
 Glassmorphism fakes depth with blur and opacity.  
 **Liquid Glassifier** gives you **real responsive fluidity**, motion, and depth.
